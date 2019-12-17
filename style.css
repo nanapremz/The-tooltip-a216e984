@@ -1,7 +1,7 @@
 .tooltip{
-    position: absolute;
-    left:550px;
-    top:0px;
+    position: fixed;
+    left:98%;
+    top:10px;
 }
 .icon:hover + .tooltip-content{
     opacity: 1;
